@@ -91,6 +91,35 @@ The Power BI dashboard includes:
 - Forecasted production trends
 - Comparative well performance analysis
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Images/executive-overview-dashboard.png)
+
+---
+
+### Well Performance Attributes Analysis
+![Well Performance](Images/well-performance-attributes-dashboard.png)
+
+---
+
+### Productive Duration Analysis
+![Productive Duration](Images/productive-duration-analysis-dashboard.png)
+
+---
+
+### Early Decline Risk Detection
+![Early Decline](Images/early-decline-risk-dashboard.png)
+
+---
+
+### Well Classification Analysis
+![Well Classification](Images/well-classification-dashboard.png)
+
+---
+
+### Forecasting and Integrity Analysis
+![Forecasting Analysis](Images/forecasting-integrity-dashboard.png)
 ---
 
 ## Future Improvements
